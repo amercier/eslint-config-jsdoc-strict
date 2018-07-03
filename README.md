@@ -7,6 +7,7 @@ eslint-config-jsdoc-strict
 
 [![Latest Stable Version](https://img.shields.io/npm/v/eslint-config-jsdoc-strict.svg)](https://www.npmjs.com/package/eslint-config-jsdoc-strict)
 [![NPM Downloads](https://img.shields.io/npm/dm/eslint-config-jsdoc-strict.svg)](https://www.npmjs.com/package/eslint-config-jsdoc-strict)
+[![Build Status](https://travis-ci.org/amercier/eslint-config-jsdoc-strict.svg?branch=master)](https://travis-ci.org/amercier/eslint-config-jsdoc-strict)
 [![Dependency Status](https://img.shields.io/david/amercier/eslint-config-jsdoc-strict.svg)](https://david-dm.org/amercier/eslint-config-jsdoc-strict)
 
 Example of valid code:
