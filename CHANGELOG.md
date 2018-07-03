@@ -8,6 +8,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 [Unreleased]
 ------------
 
+- (nothing)
+
+v1.0.0 - 2018-07-03
+-------------------
+
+### Added
+
 - Initial implementation
 - Continuous integration and deployment
 - Documentation
+
+[Unreleased]: https://github.com/amercier/eslint-config-jsdoc-strict/compare/v1.0.0...HEAD
