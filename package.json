@@ -1,0 +1,62 @@
+{
+  "name": "eslint-config-jsdoc-strict",
+  "version": "0.0.0",
+  "description": "ESLint shareable config for JSDoc-related rules.",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amercier/eslint-config-jsdoc-strict"
+  },
+  "author": "Alex Mercier <pro.alexandre.mercier@gmail.com> (http://amercier.com)",
+  "files": [
+    "index.js",
+    "eslintrc.json"
+  ],
+  "main": "index.js",
+  "keywords": [
+    "style checker",
+    "code style",
+    "code checker",
+    "code linter",
+    "style linter",
+    "simple",
+    "policy",
+    "style",
+    "code",
+    "lint",
+    "eslint",
+    "eslintconfig",
+    "jshint",
+    "jscs",
+    "hint",
+    "enforce",
+    "check",
+    "verify",
+    "quality",
+    "checker",
+    "code standards",
+    "jsdoc",
+    "esdoc",
+    "config",
+    "eslint-plugin-jsdoc"
+  ],
+  "scripts": {
+    "test": "./node_modules/.bin/eslint --ignore-path .gitignore ."
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb-base": "^13.0.0",
+    "eslint-plugin-import": "^2.13.0",
+    "eslint-plugin-jsdoc": "^3.7.1"
+  },
+  "peerDependencies": {
+    "eslint-plugin-jsdoc": "*"
+  },
+  "eslintConfig": {
+    "extends": [
+      "airbnb-base",
+      "./eslintrc.json"
+    ]
+  }
+}
