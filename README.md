@@ -72,7 +72,7 @@ Please refer to the [guidelines for contributing](./CONTRIBUTING.md).
 License
 -------
 
-[![License](https://img.shields.io/npm/l/eslint-config-jsdoc-strict.svg)](LICENSE.md)
+[![License](https://img.shields.io/npm/l/eslint-config-jsdoc-strict.svg)](LICENSE.md) [![Greenkeeper badge](https://badges.greenkeeper.io/amercier/eslint-config-jsdoc-strict.svg)](https://greenkeeper.io/)
 
 ---
 <sup>_Created with [npm-package-skeleton](https://github.com/amercier/npm-package-skeleton)._</sup>
