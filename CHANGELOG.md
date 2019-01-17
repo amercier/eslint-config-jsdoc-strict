@@ -8,7 +8,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 [Unreleased]
 ------------
 
-- (nothing)
+### Added
+
+- Enabled [jsdoc/require-returns rule] added in [eslint-plugin-jsdoc v4.0.0]
 
 v1.0.0 - 2018-07-03
 -------------------
@@ -18,5 +20,8 @@ v1.0.0 - 2018-07-03
 - Initial implementation
 - Continuous integration and deployment
 - Documentation
+
+[jsdoc/require-returns rule]: https://github.com/gajus/eslint-plugin-jsdoc#eslint-plugin-jsdoc-rules-require-returns
+[eslint-plugin-jsdoc v4.0.0]: https://github.com/gajus/eslint-plugin-jsdoc/releases/tag/v4.0.0
 
 [Unreleased]: https://github.com/amercier/eslint-config-jsdoc-strict/compare/v1.0.0...HEAD
