@@ -48,7 +48,7 @@
     "eslint": "^5.5.0",
     "eslint-config-airbnb-base": "^13.1.0",
     "eslint-plugin-import": "^2.14.0",
-    "eslint-plugin-jsdoc": "^5.0.0"
+    "eslint-plugin-jsdoc": "^15.9.7"
   },
   "peerDependencies": {
     "eslint-plugin-jsdoc": "*"
